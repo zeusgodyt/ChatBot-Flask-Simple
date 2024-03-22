@@ -8,3 +8,5 @@
 🚀 Purpose: Providing quick and accurate information
 
 💻 Tech Stack: Python, Flask
+
+![Project Image](ChatBot.png)
